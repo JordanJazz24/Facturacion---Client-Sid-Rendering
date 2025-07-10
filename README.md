@@ -1,4 +1,4 @@
-# Facturacion---Client-Side-Rendering
+# Facturacion---SSR
 
 **Autor:** [JordanJazz24](https://github.com/JordanJazz24)  
 **Repositorio:** [Facturacion---Client-Sid-Rendering](https://github.com/JordanJazz24/Facturacion---Client-Sid-Rendering)  
